@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nullfedora
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning how to write a game engine
+- 💞️ I’m looking to collaborate on my game engine
+- 📫 How to reach me: nullfedora#8785 or r100pogo@gmail.com
